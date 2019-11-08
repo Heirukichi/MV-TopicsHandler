@@ -103,6 +103,3 @@ You can contact me using the Contacts form on my website or by sending me a priv
 
 #### IMPORTANT NOTICE
 You are free to distribute this plugin as long as you provide a link to my website with it. In case you downloaded this plugin from my website, provide a link to its download page instead of copy/pasting the code.
-
-#### IMPORTANT NOTICE 2
-Credits for the original plugin go to dsiver144 and since you must include his plugin to be able to run this one, he must be included in your credits as well.
