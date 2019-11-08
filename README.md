@@ -12,7 +12,6 @@ This plugin allows you to control topics used in dialogues, allowing you to have
   - Script Calls
 * [License](#license)
   - Important Notice
-  - Important Notice 2
 
 ------------------------------
 
