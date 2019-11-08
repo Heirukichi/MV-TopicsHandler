@@ -37,8 +37,11 @@ To allow you to make checks involving the various topics discussed, this plugin 
 
 #### Example
 To initialize your topics with a script call you can use the script call
+
 ```initializeGossipTopics()```
+
 However, in the event script call, you have to use this line instead:
+
 ```this.initializeGossipTopics();```
 
 #### NOTICE
