@@ -95,7 +95,7 @@ This plugin is licensed under the GNU General Public License 3.0. This means tha
   * you still give credit to me for the original work;
   * you provide a link to my website instead of reposting my plugin when you post the modified version of the plugin.
 
-You can review the complete license here or in the license file:
+You can review the complete license here or in the [license file](LICENSE):
 https://www.gnu.org/licenses/gpl-3.0.html
 
 If you are using this plugin for a commercial game, I would like to receive a link of your game page. The link does not need to contain a free copy of your game and it is only used to keep track of games where my plugins are being used.
