@@ -7,11 +7,15 @@ This plugin allows you to control topics used in dialogues, allowing you to have
 
 ## Table of contents
 * [Instructions](#instructions)
-  - Requirements
-  - Plugin Commands
-  - Script Calls
+  - [Requirements](#requirements)
+  - [Plugin Commands](#plugin-commands)
+  - [Script Calls](#script-calls)
+    * [Example](#example)
+    * [Notice](#notice)
+    * [Script Call List](#script-call-list)
+    * [Warning](#warning)
 * [License](#license)
-  - Important Notice
+  - [Important Notice](#important-notice)
 
 ------------------------------
 
@@ -79,7 +83,7 @@ The following script calls can be used to control your topics.
   success (progressing to a greater stage value) or failure (bringing the
   topic to a stage where it can no longer be discussed).
   
-#### IMPORTANT NOTICE
+#### WARNING
 When handling topics keep in mind that you CANNOT use 0 as a topic ID. The said value is used to check if your topics have been initialized or not. If you set a different value for the said topic, whenever you use a script call to handle your topics, the engine will automatically reset all your topics to their starting initialization value!
 Use numbers from 1 onward as topics ID to avoid this.
 
